@@ -2,4 +2,4 @@
 
 
 
-![](gozo.gif)
+![](img/ney.jpg)
